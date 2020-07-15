@@ -9,7 +9,7 @@ class HealthCalculators extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       theme: ThemeData(
-        scaffoldBackgroundColor: Color(0xFF3DDAD0),
+        scaffoldBackgroundColor: Color(0xFF23629C),
         textTheme: TextTheme(
           body1: TextStyle(color: Colors.black),
         ),
