@@ -25,7 +25,7 @@ I created these sub-directories to accomplish a clean structure for myself and a
 ### Before I started to code:
 I scratched the general design
 implemented my key input options for the user
-### Clean Code and Refactoring:
+### Short intro to the Clean Code and Refactoring approaches:
 #### 1. The design template
 The code for the template is stored in the "main.dart" field using elegance patterns by simplifying the application structure and the readability of the code, without causing several duplications of the template file for each screen.
 
