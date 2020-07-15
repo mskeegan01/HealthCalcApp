@@ -18,7 +18,7 @@ class _AccInputPageWomenState extends State<AccInputPageWomen> {
   bool ex2 = false;
   bool ex3 = false;
 
-  //we omitted the brackets '{}' and are using fat arrow '=>' instead, this is dart syntax
+
   void _ex1Changed(bool value) => setState(() => ex1 = value);
   void _ex2Changed(bool value) => setState(() => ex2 = value);
   void _ex3Changed(bool value) => setState(() => ex3 = value);
