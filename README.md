@@ -48,5 +48,7 @@ a clear declaration of the identifiers
 For the ACC (Active Caloric Need) Calculator exists three different factors. This depends on exercising frequency.
 #### Excercises per week: (for both genders)
 1-2x = 1.2
+
 2-3x = 1.4
+
 3-5x = 1.75
