@@ -1,6 +1,5 @@
-# SE_08 Clean Code
 
-### Health Calculator App
+# Health Calculator App
 ![](images/appSlides.png)
 ### This App allows the user to calculate several indexes:
 - BMI
@@ -52,3 +51,10 @@ For the ACC (Active Caloric Need) Calculator exists three different factors. Thi
 2-3x = 1.4
 
 3-5x = 1.75
+
+
+# Future Features:
+##### - Micro and Macro Nutrition Value Chart
+##### - Profile for users
+##### - ThoughtLeaders who can share their road to success for their specific health goals
+##### - BirdInfo becomes the ChatBot for general questions regarding health and goal settings
